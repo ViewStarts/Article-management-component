@@ -16,7 +16,7 @@ pnpm dev
 pnpm build
 ```
 
-### 代码格式化
+### 运行 ESLint 进行代码检查
 
 ```sh
 pnpm lint
